@@ -1,0 +1,108 @@
+{
+    "settings": {
+        "SKY_COLOUR": "sky blue",
+        "INCR_POWER": "<KeyPress-Up>",
+        "DECR_POWER": "<KeyPress-Down>",
+        "RIGHT_ANGLE_START": "<KeyPress-Right>",
+        "LEFT_ANGLE_START": "<KeyPress-Left>",
+        "RIGHT_ANGLE_STOP": "<KeyRelease-Right>",
+        "LEFT_ANGLE_STOP": "<KeyRelease-Left>",
+        "SHOOT_BALL": "<KeyPress-space>",
+        "BOSS_KEY": "B",
+        "BALL_DESIGN": "images/basketball1.png"
+    },
+    "accounts": {
+        "accountCount": 3,
+        "currentAccount": 1,
+        "1": {
+            "username": "Affan",
+            "Bronze": 1,
+            "Silver": 3,
+            "Gold": 14,
+            "Buzzer Beater": 0,
+            "stages": {
+                "stage1": {
+                    "level1": "Gold",
+                    "level2": "Silver",
+                    "level3": "Gold",
+                    "level4": "Silver",
+                    "level5": "Bronze"
+                },
+                "stage2": {
+                    "level1": "Gold",
+                    "level2": "Gold",
+                    "level3": "Gold",
+                    "level4": "Gold",
+                    "level5": "Gold"
+                },
+                "stage3": {
+                    "level1": "Gold",
+                    "level2": "Gold",
+                    "level3": "Silver",
+                    "level4": "N/A",
+                    "level5": "N/A"
+                }
+            }
+        },
+        "2": {
+            "username": "Bob",
+            "Bronze": 0,
+            "Silver": 0,
+            "Gold": 0,
+            "Buzzer Beater": 0,
+            "stages": {
+                "stage1": {
+                    "level1": "N/A",
+                    "level2": "N/A",
+                    "level3": "N/A",
+                    "level4": "N/A",
+                    "level5": "N/A"
+                },
+                "stage2": {
+                    "level1": "N/A",
+                    "level2": "N/A",
+                    "level3": "N/A",
+                    "level4": "N/A",
+                    "level5": "N/A"
+                },
+                "stage3": {
+                    "level1": "N/A",
+                    "level2": "N/A",
+                    "level3": "N/A",
+                    "level4": "N/A",
+                    "level5": "N/A"
+                }
+            }
+        },
+        "3": {
+            "username": "Smith",
+            "Bronze": 0,
+            "Silver": 1,
+            "Gold": 10,
+            "Buzzer Beater": 1,
+            "stages": {
+                "stage1": {
+                    "level1": "Gold",
+                    "level2": "Gold",
+                    "level3": "Gold",
+                    "level4": "Gold",
+                    "level5": "Silver"
+                },
+                "stage2": {
+                    "level1": "Gold",
+                    "level2": "Gold",
+                    "level3": "Gold",
+                    "level4": "Gold",
+                    "level5": "Buzzer Beater"
+                },
+                "stage3": {
+                    "level1": "Gold",
+                    "level2": "Gold",
+                    "level3": "N/A",
+                    "level4": "N/A",
+                    "level5": "N/A"
+                }
+            }
+        }
+    }
+}
